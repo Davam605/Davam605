@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact **Sedikit memahami jalannya Operasi Sistem dan Jaringan**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Sosial Media Saya:</h3>
 <p align="left">
 <a href="https://x.com/Davam605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s" height="30" width="40" /></a>
 <a href="https://www.facebook.com/dava.muhammad.1806/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="s" height="30" width="40" /></a>
