@@ -1,7 +1,7 @@
 <h1 align="center">Haloo 👋, saya Dava!</h1>
 <h3 align="center">FrontEnd Programming (Hanya Iseng Saja)</h3>
 
-- 🌱 Saya Lagi/Ingin Mempelajari **C++, ReactJS, JS, Python, C++, Arduino**
+- 🌱 Saya Lagi/Ingin Mempelajari **C++, ReactJS, JS, Python, TS, PHP, Arduino**
 - ⚡ Fun fact **Sedikit memahami jalannya Operasi Sistem dan Jaringan**
 -  📚 Untuk Arsip Repository
 - 📸 Suka Fotografi
