@@ -2,8 +2,8 @@
 <h3 align="center">FrontEnd Programming (Hanya Iseng Saja)</h3>
 
 - 🌱 Saya Sedang Mempelajari **C++, ReactJS, JS, Python (Lanjut)**
-
 - ⚡ Fun fact **Sedikit memahami jalannya Operasi Sistem dan Jaringan**
+-  📚 Arsip Repository 
 
 <h3 align="left">Sosial Media Saya:</h3>
 <p align="left">
